@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @John-E-Davidson72
-- 👀 I’m interested in Python projects
+- 👀 I’m interested in Python, Flask, SQLAlchemy, Numpy, Matplotlib & Bootstrap
 - 🌱 I’m currently learning Azure, Docker & Dash
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting Python projects
 - 📫 How to reach me john.davidson.ctr@hotmail.co.uk
 
 <!---
