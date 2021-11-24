@@ -1,8 +1,8 @@
-Hi, I’m @John-E-Davidson72
-I’m interested in Python, Flask, SQLAlchemy, Numpy, Matplotlib, Scikit-Learn & Bootstrap
-I’m currently learning Azure, Docker, Dash & dabbling in JS
-I’m looking to collaborate on interesting Python projects
-How to reach me john.davidson.ctr@hotmail.co.uk
+-Hi, I’m @John Davidson
+-I’m interested in Python, Flask, SQLAlchemy, Numpy, Matplotlib, Scikit-Learn & Bootstrap
+-I’m currently learning Azure, Docker, Dash & dabbling in JS
+-I’m looking to collaborate on interesting Python projects
+-How to reach me john.davidson.ctr@hotmail.co.uk
 
 <!---
 John-E-Davidson72/John-E-Davidson72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
